@@ -2,3 +2,4 @@
 #echo "hello kuwaitnet co."
 #echo "hello world"
 #mpstat 
+#vmstat 
