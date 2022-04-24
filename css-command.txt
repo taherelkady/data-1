@@ -1,4 +1,4 @@
 #echo
 #echo "hello kuwaitnet co."
 #echo "hello world"
-#
+#mpstat 
